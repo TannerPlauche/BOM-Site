@@ -1,0 +1,1145 @@
+{
+  "books": [
+    {
+      "book": "1 Nephi",
+      "abbreviation": "1-ne",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "1 Nephi 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "1 Nephi 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "1 Nephi 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "1 Nephi 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "1 Nephi 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "1 Nephi 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "1 Nephi 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "1 Nephi 8"
+        },
+        {
+          "chapter": 9,
+          "reference": "1 Nephi 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "1 Nephi 10"
+        },
+        {
+          "chapter": 11,
+          "reference": "1 Nephi 11"
+        },
+        {
+          "chapter": 12,
+          "reference": "1 Nephi 12"
+        },
+        {
+          "chapter": 13,
+          "reference": "1 Nephi 13"
+        },
+        {
+          "chapter": 14,
+          "reference": "1 Nephi 14"
+        },
+        {
+          "chapter": 15,
+          "reference": "1 Nephi 15"
+        },
+        {
+          "chapter": 16,
+          "reference": "1 Nephi 16"
+        },
+        {
+          "chapter": 17,
+          "reference": "1 Nephi 17"
+        },
+        {
+          "chapter": 18,
+          "reference": "1 Nephi 18"
+        },
+        {
+          "chapter": 19,
+          "reference": "1 Nephi 19"
+        },
+        {
+          "chapter": 20,
+          "reference": "1 Nephi 20"
+        },
+        {
+          "chapter": 21,
+          "reference": "1 Nephi 21"
+        },
+        {
+          "chapter": 22,
+          "reference": "1 Nephi 22"
+        }
+      ],
+      "full_title": "The First Book of Nephi",
+      "heading": "An account of Lehi and his wife Sariah, and his four sons, being called, (beginning at the eldest) Laman, Lemuel, Sam, and Nephi. The Lord warns Lehi to depart out of the land of Jerusalem, because he prophesieth unto the people concerning their iniquity and they seek to destroy his life. He taketh three days' journey into the wilderness with his family. Nephi taketh his brethren and returneth to the land of Jerusalem after the record of the Jews. The account of their sufferings. They take the daughters of Ishmael to wife. They take their families and depart into the wilderness. Their sufferings and afflictions in the wilderness. The course of their travels. They come to the large waters. Nephi's brethren rebel against him. He confoundeth them, and buildeth a ship. They call the name of the place Bountiful. They cross the large waters into the promised land, and so forth. This is according to the account of Nephi; or in other words, I, Nephi, wrote this record.",
+      "lds_slug": "1-ne"
+    },
+    {
+      "book": "2 Nephi",
+      "abbreviation": "2-ne",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "2 Nephi 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "2 Nephi 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "2 Nephi 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "2 Nephi 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "2 Nephi 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "2 Nephi 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "2 Nephi 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "2 Nephi 8"
+        },
+        {
+          "chapter": 9,
+          "reference": "2 Nephi 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "2 Nephi 10"
+        },
+        {
+          "chapter": 11,
+          "reference": "2 Nephi 11"
+        },
+        {
+          "chapter": 12,
+          "reference": "2 Nephi 12"
+        },
+        {
+          "chapter": 13,
+          "reference": "2 Nephi 13"
+        },
+        {
+          "chapter": 14,
+          "reference": "2 Nephi 14"
+        },
+        {
+          "chapter": 15,
+          "reference": "2 Nephi 15"
+        },
+        {
+          "chapter": 16,
+          "reference": "2 Nephi 16"
+        },
+        {
+          "chapter": 17,
+          "reference": "2 Nephi 17"
+        },
+        {
+          "chapter": 18,
+          "reference": "2 Nephi 18"
+        },
+        {
+          "chapter": 19,
+          "reference": "2 Nephi 19"
+        },
+        {
+          "chapter": 20,
+          "reference": "2 Nephi 20"
+        },
+        {
+          "chapter": 21,
+          "reference": "2 Nephi 21"
+        },
+        {
+          "chapter": 22,
+          "reference": "2 Nephi 22"
+        },
+        {
+          "chapter": 23,
+          "reference": "2 Nephi 23"
+        },
+        {
+          "chapter": 24,
+          "reference": "2 Nephi 24"
+        },
+        {
+          "chapter": 25,
+          "reference": "2 Nephi 25"
+        },
+        {
+          "chapter": 26,
+          "reference": "2 Nephi 26"
+        },
+        {
+          "chapter": 27,
+          "reference": "2 Nephi 27"
+        },
+        {
+          "chapter": 28,
+          "reference": "2 Nephi 28"
+        },
+        {
+          "chapter": 29,
+          "reference": "2 Nephi 29"
+        },
+        {
+          "chapter": 30,
+          "reference": "2 Nephi 30"
+        },
+        {
+          "chapter": 31,
+          "reference": "2 Nephi 31"
+        },
+        {
+          "chapter": 32,
+          "reference": "2 Nephi 32"
+        },
+        {
+          "chapter": 33,
+          "reference": "2 Nephi 33"
+        }
+      ],
+      "full_title": "The Second Book of Nephi",
+      "heading": "An account of the death of Lehi. Nephi's brethren rebel against him. The Lord warns Nephi to depart into the wilderness. His journeyings in the wilderness, and so forth.",
+      "lds_slug": "2-ne"
+    },
+    {
+      "book": "Jacob",
+      "abbreviation": "jacob",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Jacob 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "Jacob 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "Jacob 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "Jacob 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "Jacob 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "Jacob 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "Jacob 7"
+        }
+      ],
+      "full_subtitle": "the Brother of Nephi",
+      "full_title": "The Book of Jacob",
+      "heading": "The words of his preaching unto his brethren. He confoundeth a man who seeketh to overthrow the doctrine of Christ. A few words concerning the history of the people of Nephi.",
+      "lds_slug": "jacob"
+    },
+    {
+      "book": "Enos",
+      "abbreviation": "enos",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Enos 1"
+        }
+      ],
+      "full_title": "The Book of Enos",
+      "lds_slug": "enos"
+    },
+    {
+      "book": "Jarom",
+      "abbreviation": "jarom",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Jarom 1"
+        }
+      ],
+      "full_title": "The Book of Jarom",
+      "lds_slug": "jarom"
+    },
+    {
+      "book": "Omni",
+      "abbreviation": "omni",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Omni 1"
+        }
+      ],
+      "full_title": "The Book of Omni",
+      "lds_slug": "omni"
+    },
+    {
+      "book": "Words of Mormon",
+      "abbreviation": "w-of-m",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Words of Mormon 1"
+        }
+      ],
+      "full_title": "The Words of Mormon",
+      "lds_slug": "w-of-m"
+    },
+    {
+      "book": "Mosiah",
+      "abbreviation": "mosiah",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Mosiah 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "Mosiah 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "Mosiah 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "Mosiah 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "Mosiah 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "Mosiah 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "Mosiah 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "Mosiah 8"
+        },
+        {
+          "chapter": 9,
+          "heading": "The Record of Zeniff—An account of his people, from the time they left the land of Zarahemla until the time that they were delivered out of the hands of the Lamanites.",
+          "reference": "Mosiah 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "Mosiah 10"
+        },
+        {
+          "chapter": 11,
+          "reference": "Mosiah 11"
+        },
+        {
+          "chapter": 12,
+          "reference": "Mosiah 12"
+        },
+        {
+          "chapter": 13,
+          "reference": "Mosiah 13"
+        },
+        {
+          "chapter": 14,
+          "reference": "Mosiah 14"
+        },
+        {
+          "chapter": 15,
+          "reference": "Mosiah 15"
+        },
+        {
+          "chapter": 16,
+          "reference": "Mosiah 16"
+        },
+        {
+          "chapter": 17,
+          "reference": "Mosiah 17"
+        },
+        {
+          "chapter": 18,
+          "reference": "Mosiah 18"
+        },
+        {
+          "chapter": 19,
+          "reference": "Mosiah 19"
+        },
+        {
+          "chapter": 20,
+          "reference": "Mosiah 20"
+        },
+        {
+          "chapter": 21,
+          "reference": "Mosiah 21"
+        },
+        {
+          "chapter": 22,
+          "reference": "Mosiah 22"
+        },
+        {
+          "chapter": 23,
+          "heading": "An account of Alma and the people of the Lord, who were driven into the wilderness by the people of King Noah.",
+          "reference": "Mosiah 23"
+        },
+        {
+          "chapter": 24,
+          "reference": "Mosiah 24"
+        },
+        {
+          "chapter": 25,
+          "reference": "Mosiah 25"
+        },
+        {
+          "chapter": 26,
+          "reference": "Mosiah 26"
+        },
+        {
+          "chapter": 27,
+          "reference": "Mosiah 27"
+        },
+        {
+          "chapter": 28,
+          "reference": "Mosiah 28"
+        },
+        {
+          "chapter": 29,
+          "reference": "Mosiah 29"
+        }
+      ],
+      "full_title": "The Book of Mosiah",
+      "lds_slug": "mosiah"
+    },
+    {
+      "book": "Alma",
+      "abbreviation": "alma",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Alma 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "Alma 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "Alma 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "Alma 4"
+        },
+        {
+          "chapter": 5,
+          "heading": "The words which Alma, the High Priest according to the holy order of God, delivered to the people in their cities and villages throughout the land.",
+          "reference": "Alma 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "Alma 6"
+        },
+        {
+          "chapter": 7,
+          "heading": "The words of Alma which he delivered to the people in Gideon, according to his own record.",
+          "reference": "Alma 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "Alma 8"
+        },
+        {
+          "chapter": 9,
+          "heading": "The words of Alma, and also the words of Amulek, which were declared unto the people who were in the land of Ammonihah. And also they are cast into prison, and delivered by the miraculous power of God which was in them, according to the record of Alma.",
+          "reference": "Alma 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "Alma 10"
+        },
+        {
+          "chapter": 11,
+          "reference": "Alma 11"
+        },
+        {
+          "chapter": 12,
+          "reference": "Alma 12"
+        },
+        {
+          "chapter": 13,
+          "reference": "Alma 13"
+        },
+        {
+          "chapter": 14,
+          "reference": "Alma 14"
+        },
+        {
+          "chapter": 15,
+          "reference": "Alma 15"
+        },
+        {
+          "chapter": 16,
+          "reference": "Alma 16"
+        },
+        {
+          "chapter": 17,
+          "heading": "An account of the sons of Mosiah, who rejected their rights to the kingdom for the word of God, and went up to the land of Nephi to preach to the Lamanites; their sufferings and deliverance—according to the record of Alma.",
+          "reference": "Alma 17"
+        },
+        {
+          "chapter": 18,
+          "reference": "Alma 18"
+        },
+        {
+          "chapter": 19,
+          "reference": "Alma 19"
+        },
+        {
+          "chapter": 20,
+          "reference": "Alma 20"
+        },
+        {
+          "chapter": 21,
+          "heading": "An account of the preaching of Aaron, and Muloki, and their brethren, to the Lamanites.",
+          "reference": "Alma 21"
+        },
+        {
+          "chapter": 22,
+          "reference": "Alma 22"
+        },
+        {
+          "chapter": 23,
+          "reference": "Alma 23"
+        },
+        {
+          "chapter": 24,
+          "reference": "Alma 24"
+        },
+        {
+          "chapter": 25,
+          "reference": "Alma 25"
+        },
+        {
+          "chapter": 26,
+          "reference": "Alma 26"
+        },
+        {
+          "chapter": 27,
+          "reference": "Alma 27"
+        },
+        {
+          "chapter": 28,
+          "reference": "Alma 28"
+        },
+        {
+          "chapter": 29,
+          "reference": "Alma 29"
+        },
+        {
+          "chapter": 30,
+          "reference": "Alma 30"
+        },
+        {
+          "chapter": 31,
+          "reference": "Alma 31"
+        },
+        {
+          "chapter": 32,
+          "reference": "Alma 32"
+        },
+        {
+          "chapter": 33,
+          "reference": "Alma 33"
+        },
+        {
+          "chapter": 34,
+          "reference": "Alma 34"
+        },
+        {
+          "chapter": 35,
+          "reference": "Alma 35"
+        },
+        {
+          "chapter": 36,
+          "heading": "The commandments of Alma to his son Helaman.",
+          "reference": "Alma 36"
+        },
+        {
+          "chapter": 37,
+          "reference": "Alma 37"
+        },
+        {
+          "chapter": 38,
+          "heading": "The commandments of Alma to his son Shiblon.",
+          "reference": "Alma 38"
+        },
+        {
+          "chapter": 39,
+          "heading": "The commandments of Alma to his son Corianton.",
+          "reference": "Alma 39"
+        },
+        {
+          "chapter": 40,
+          "reference": "Alma 40"
+        },
+        {
+          "chapter": 41,
+          "reference": "Alma 41"
+        },
+        {
+          "chapter": 42,
+          "reference": "Alma 42"
+        },
+        {
+          "chapter": 43,
+          "reference": "Alma 43"
+        },
+        {
+          "chapter": 44,
+          "reference": "Alma 44"
+        },
+        {
+          "chapter": 45,
+          "heading": "The account of the people of Nephi, and their wars and dissensions, in the days of Helaman, according to the record of Helaman, which he kept in his days.",
+          "reference": "Alma 45"
+        },
+        {
+          "chapter": 46,
+          "reference": "Alma 46"
+        },
+        {
+          "chapter": 47,
+          "reference": "Alma 47"
+        },
+        {
+          "chapter": 48,
+          "reference": "Alma 48"
+        },
+        {
+          "chapter": 49,
+          "reference": "Alma 49"
+        },
+        {
+          "chapter": 50,
+          "reference": "Alma 50"
+        },
+        {
+          "chapter": 51,
+          "reference": "Alma 51"
+        },
+        {
+          "chapter": 52,
+          "reference": "Alma 52"
+        },
+        {
+          "chapter": 53,
+          "reference": "Alma 53"
+        },
+        {
+          "chapter": 54,
+          "reference": "Alma 54"
+        },
+        {
+          "chapter": 55,
+          "reference": "Alma 55"
+        },
+        {
+          "chapter": 56,
+          "reference": "Alma 56"
+        },
+        {
+          "chapter": 57,
+          "reference": "Alma 57"
+        },
+        {
+          "chapter": 58,
+          "reference": "Alma 58"
+        },
+        {
+          "chapter": 59,
+          "reference": "Alma 59"
+        },
+        {
+          "chapter": 60,
+          "reference": "Alma 60"
+        },
+        {
+          "chapter": 61,
+          "reference": "Alma 61"
+        },
+        {
+          "chapter": 62,
+          "reference": "Alma 62"
+        },
+        {
+          "chapter": 63,
+          "reference": "Alma 63"
+        }
+      ],
+      "full_subtitle": "the Son of Alma",
+      "full_title": "The Book of Alma",
+      "heading": "The account of Alma, who was the son of Alma, the first and chief judge over the people of Nephi, and also the high priest over the Church. An account of the reign of the judges, and the wars and contentions among the people. And also an account of a war between the Nephites and the Lamanites, according to the record of Alma, the first and chief judge.",
+      "lds_slug": "alma"
+    },
+    {
+      "book": "Helaman",
+      "abbreviation": "Hel",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Helaman 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "Helaman 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "Helaman 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "Helaman 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "Helaman 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "Helaman 6"
+        },
+        {
+          "chapter": 7,
+          "heading": "The Prophecy of Nephi, the Son of Helaman—God threatens the people of Nephi that he will visit them in his anger, to their utter destruction except they repent of their wickedness. God smiteth the people of Nephi with pestilence; they repent and turn unto him. Samuel, a Lamanite, prophesies unto the Nephites.",
+          "reference": "Helaman 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "Helaman 8"
+        },
+        {
+          "chapter": 9,
+          "reference": "Helaman 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "Helaman 10"
+        },
+        {
+          "chapter": 11,
+          "reference": "Helaman 11"
+        },
+        {
+          "chapter": 12,
+          "reference": "Helaman 12"
+        },
+        {
+          "chapter": 13,
+          "heading": "The prophecy of Samuel, the Lamanite, to the Nephites.",
+          "reference": "Helaman 13"
+        },
+        {
+          "chapter": 14,
+          "reference": "Helaman 14"
+        },
+        {
+          "chapter": 15,
+          "reference": "Helaman 15"
+        },
+        {
+          "chapter": 16,
+          "reference": "Helaman 16"
+        }
+      ],
+      "full_title": "The Book of Helaman",
+      "heading": "An account of the Nephites. Their wars and contentions, and their dissensions. And also the prophecies of many holy prophets, before the coming of Christ, according to the records of Helaman, who was the son of Helaman, and also according to the records of his sons, even down to the coming of Christ. And also many of the Lamanites are converted. An account of their conversion. An account of the righteousness of the Lamanites, and the wickedness and abominations of the Nephites, according to the record of Helaman and his sons, even down to the coming of Christ, which is called the book of Helaman, and so forth.",
+      "lds_slug": "hel"
+    },
+    {
+      "book": "3 Nephi",
+      "abbreviation": "3-ne",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "3 Nephi 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "3 Nephi 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "3 Nephi 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "3 Nephi 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "3 Nephi 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "3 Nephi 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "3 Nephi 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "3 Nephi 8"
+        },
+        {
+          "chapter": 9,
+          "reference": "3 Nephi 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "3 Nephi 10"
+        },
+        {
+          "chapter": 11,
+          "heading": "Jesus Christ did show himself unto the people of Nephi, as the multitude were gathered together in the land Bountiful, and did minister unto them; and on this wise did he show himself unto them.",
+          "reference": "3 Nephi 11"
+        },
+        {
+          "chapter": 12,
+          "reference": "3 Nephi 12"
+        },
+        {
+          "chapter": 13,
+          "reference": "3 Nephi 13"
+        },
+        {
+          "chapter": 14,
+          "reference": "3 Nephi 14"
+        },
+        {
+          "chapter": 15,
+          "reference": "3 Nephi 15"
+        },
+        {
+          "chapter": 16,
+          "reference": "3 Nephi 16"
+        },
+        {
+          "chapter": 17,
+          "reference": "3 Nephi 17"
+        },
+        {
+          "chapter": 18,
+          "reference": "3 Nephi 18"
+        },
+        {
+          "chapter": 19,
+          "reference": "3 Nephi 19"
+        },
+        {
+          "chapter": 20,
+          "reference": "3 Nephi 20"
+        },
+        {
+          "chapter": 21,
+          "reference": "3 Nephi 21"
+        },
+        {
+          "chapter": 22,
+          "reference": "3 Nephi 22"
+        },
+        {
+          "chapter": 23,
+          "reference": "3 Nephi 23"
+        },
+        {
+          "chapter": 24,
+          "reference": "3 Nephi 24"
+        },
+        {
+          "chapter": 25,
+          "reference": "3 Nephi 25"
+        },
+        {
+          "chapter": 26,
+          "reference": "3 Nephi 26"
+        },
+        {
+          "chapter": 27,
+          "reference": "3 Nephi 27"
+        },
+        {
+          "chapter": 28,
+          "reference": "3 Nephi 28"
+        },
+        {
+          "chapter": 29,
+          "reference": "3 Nephi 29"
+        },
+        {
+          "chapter": 30,
+          "reference": "3 Nephi 30"
+        }
+      ],
+      "full_subtitle": "the Son of Nephi, Who Was the Son of Helaman",
+      "full_title": "Third Nephi, The Book of Nephi",
+      "heading": "And Helaman was the son of Helaman, who was the son of Alma, who was the son of Alma, being a descendant of Nephi who was the son of Lehi, who came out of Jerusalem in the first year of the reign of Zedekiah, the king of Judah.",
+      "lds_slug": "3-ne"
+    },
+    {
+      "book": "4 Nephi",
+      "abbreviation": "4-ne",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "4 Nephi 1"
+        }
+      ],
+      "full_subtitle": "Who Is the Son of Nephi—One of the Disciples of Jesus Christ",
+      "full_title": "Fourth Nephi, The Book of Nephi",
+      "heading": "An account of the people of Nephi, according to his record.",
+      "lds_slug": "4-ne"
+    },
+    {
+      "book": "Mormon",
+      "abbreviation": "morm",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Mormon 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "Mormon 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "Mormon 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "Mormon 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "Mormon 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "Mormon 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "Mormon 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "Mormon 8"
+        },
+        {
+          "chapter": 9,
+          "reference": "Mormon 9"
+        }
+      ],
+      "full_title": "The Book of Mormon",
+      "lds_slug": "morm"
+    },
+    {
+      "book": "Ether",
+      "abbreviation": "ether",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Ether 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "Ether 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "Ether 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "Ether 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "Ether 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "Ether 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "Ether 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "Ether 8"
+        },
+        {
+          "chapter": 9,
+          "reference": "Ether 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "Ether 10"
+        },
+        {
+          "chapter": 11,
+          "reference": "Ether 11"
+        },
+        {
+          "chapter": 12,
+          "reference": "Ether 12"
+        },
+        {
+          "chapter": 13,
+          "reference": "Ether 13"
+        },
+        {
+          "chapter": 14,
+          "reference": "Ether 14"
+        },
+        {
+          "chapter": 15,
+          "reference": "Ether 15"
+        }
+      ],
+      "full_title": "The Book of Ether",
+      "lds_slug": "ether"
+    },
+    {
+      "book": "Moroni",
+      "abbreviation": "moro",
+      "chapters": [
+        {
+          "chapter": 1,
+          "reference": "Moroni 1"
+        },
+        {
+          "chapter": 2,
+          "reference": "Moroni 2"
+        },
+        {
+          "chapter": 3,
+          "reference": "Moroni 3"
+        },
+        {
+          "chapter": 4,
+          "reference": "Moroni 4"
+        },
+        {
+          "chapter": 5,
+          "reference": "Moroni 5"
+        },
+        {
+          "chapter": 6,
+          "reference": "Moroni 6"
+        },
+        {
+          "chapter": 7,
+          "reference": "Moroni 7"
+        },
+        {
+          "chapter": 8,
+          "reference": "Moroni 8"
+        },
+        {
+          "chapter": 9,
+          "heading": "The second epistle of Mormon to his son Moroni.",
+          "reference": "Moroni 9"
+        },
+        {
+          "chapter": 10,
+          "reference": "Moroni 10"
+        }
+      ],
+      "full_title": "The Book of Moroni",
+      "lds_slug": "moro"
+    }
+  ],
+  "last_modified": "2016-10-02",
+  "lds_slug": "bofm",
+  "subtitle": "Another Testament of Jesus Christ",
+  "testimonies": [
+    {
+      "text": "Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: That we, through the grace of God the Father, and our Lord Jesus Christ, have seen the plates which contain this record, which is a record of the people of Nephi, and also of the Lamanites, their brethren, and also of the people of Jared, who came from the tower of which hath been spoken. And we also know that they have been translated by the gift and power of God, for his voice hath declared it unto us; wherefore we know of a surety that the work is true. And we also testify that we have seen the engravings which are upon the plates; and they have been shown unto us by the power of God, and not of man. And we declare with words of soberness, that an angel of God came down from heaven, and he brought and laid before our eyes, that we beheld and saw the plates, and the engravings thereon; and we know that it is by the grace of God the Father, and our Lord Jesus Christ, that we beheld and bear record that these things are true. And it is marvelous in our eyes. Nevertheless, the voice of the Lord commanded us that we should bear record of it; wherefore, to be obedient unto the commandments of God, we bear testimony of these things. And we know that if we are faithful in Christ, we shall rid our garments of the blood of all men, and be found spotless before the judgment-seat of Christ, and shall dwell with him eternally in the heavens. And the honor be to the Father, and to the Son, and to the Holy Ghost, which is one God. Amen.",
+      "title": "Testimony of Three Witnesses",
+      "witnesses": [
+        "Oliver Cowdery",
+        "David Whitmer",
+        "Martin Harris"
+      ]
+    },
+    {
+      "text": "Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: That Joseph Smith, Jun., the translator of this work, has shown unto us the plates of which hath been spoken, which have the appearance of gold; and as many of the leaves as the said Smith has translated we did handle with our hands; and we also saw the engravings thereon, all of which has the appearance of ancient work, and of curious workmanship. And this we bear record with words of soberness, that the said Smith has shown unto us, for we have seen and hefted, and know of a surety that the said Smith has got the plates of which we have spoken. And we give our names unto the world, to witness unto the world that which we have seen. And we lie not, God bearing witness of it.",
+      "title": "Testimony of Eight Witnesses",
+      "witnesses": [
+        "Christian Whitmer",
+        "Jacob Whitmer",
+        "Peter Whitmer, Jun.",
+        "John Whitmer",
+        "Hiram Page",
+        "Joseph Smith, Sen.",
+        "Hyrum Smith",
+        "Samuel H. Smith"
+      ]
+    }
+  ],
+  "title": "The Book of Mormon",
+  "title_page": {
+    "subtitle": "An Account Written by the Hand of Mormon upon Plates Taken from the Plates of Nephi",
+    "text": [
+      "Wherefore, it is an abridgment of the record of the people of Nephi, and also of the Lamanites—Written to the Lamanites, who are a remnant of the house of Israel; and also to Jew and Gentile—Written by way of commandment, and also by the spirit of prophecy and of revelation—Written and sealed up, and hid up unto the Lord, that they might not be destroyed—To come forth by the gift and power of God unto the interpretation thereof—Sealed by the hand of Moroni, and hid up unto the Lord, to come forth in due time by way of the Gentile—The interpretation thereof by the gift of God.",
+      "An abridgment taken from the Book of Ether also, which is a record of the people of Jared, who were scattered at the time the Lord confounded the language of the people, when they were building a tower to get to heaven—Which is to show unto the remnant of the house of Israel what great things the Lord hath done for their fathers; and that they may know the covenants of the Lord, that they are not cast off forever—And also to the convincing of the Jew and Gentile that Jesus is the Christ, the Eternal God, manifesting himself unto all nations—And now, if there are faults they are the mistakes of men; wherefore, condemn not the things of God, that ye may be found spotless at the judgment-seat of Christ."
+    ],
+    "title": "The Book of Mormon",
+    "translated_by": "Translated by Joseph Smith, Jun."
+  },
+  "version": 4
+}
