@@ -19,7 +19,6 @@
         </select>
     </div>
     <div class="book-wrapper">
-        <h1>{languageCode}</h1>
         {#each BOM.books as book}
             <div class="book">
                 <h3>{book.book}</h3>
