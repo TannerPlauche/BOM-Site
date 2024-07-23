@@ -10,7 +10,6 @@
 </script>
 
 <div>
-    <h1>Books:</h1>
     <div class="langSelection">
         Select Language <select id="selectLang" bind:value={languageCode}>
             {#each languageCodes as language}
@@ -18,6 +17,21 @@
             {/each}
         </select>
     </div>
+    <h3>Introductions and Witnesses</h3>
+    <div class="book-wrapper">
+        {#each BOM.otherPages as page}
+            <div class="book">
+                <a
+                    class="chapter"
+                    href="{page.link}?lang=eng&_x_tr_sl=en&_x_tr_tl={languageCode}&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true"
+                    target="_blank"
+                >
+                    {page.title}
+                </a>
+            </div>
+        {/each}
+    </div>
+    <h3>Books</h3>
     <div class="book-wrapper">
         {#each BOM.books as book}
             <div class="book">
@@ -38,6 +52,9 @@
 </div>
 
 <style>
+    h3 {
+        text-align: center;
+    }
     .book-wrapper {
         display: flex;
         flex-wrap: wrap;
@@ -48,7 +65,7 @@
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
-        align-items: flex-start;
+        align-items: center;
         padding: 1rem;
     }
     @media screen and (max-width: 480px) {

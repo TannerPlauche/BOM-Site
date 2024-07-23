@@ -34601,7 +34601,7 @@
             "lds_slug": "moro"
         }
     ],
-	"last_modified": "2016-10-02",
+    "last_modified": "2016-10-02",
     "lds_slug": "bofm",
     "subtitle": "Another Testament of Jesus Christ",
     "testimonies": [
@@ -34639,5 +34639,31 @@
         "title": "The Book of Mormon",
         "translated_by": "Translated by Joseph Smith, Jun."
     },
-	"version": 4
+    "version": 4,
+    "otherPages": [
+        {
+            "title": "Title Page",
+            "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/title-page"
+        },
+        {
+            "title": "Title Page Book of Mormon",
+            "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title"
+        },
+        {
+            "title": "Introduction",
+            "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title"
+        },
+        {
+            "title": "Testimony of Three Witnesses",
+            "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/three"
+        },
+        {
+            "title": "Testimony of the Prophet Joseph Smith",
+            "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/js"
+        },
+        {
+            "title": "A Brief Explanation about the Book of Mormon",
+            "link": "https://www.churchofjesuschrist.org/study/scriptures/bofm/explanation"
+        },
+    ]
 }
