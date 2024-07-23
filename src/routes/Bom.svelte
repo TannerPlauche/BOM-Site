@@ -12,7 +12,7 @@
 <div>
     <h1>Books:</h1>
     <div class="langSelection">
-        <select id="selectLang" bind:value={languageCode}>
+       Select Language  <select id="selectLang" bind:value={languageCode}>
             {#each languageCodes as language}
                 <option value={language.code}>{language.languageName}</option>
             {/each}
@@ -51,8 +51,10 @@
     .langSelection {
         display: flex;
         justify-content: center;
+        align-items: center;
     }
     #selectLang {
         font-size: 1.5rem;
+        margin: 0.5rem;
     }
 </style>
