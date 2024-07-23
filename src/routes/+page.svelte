@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Boom of Mormon</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
