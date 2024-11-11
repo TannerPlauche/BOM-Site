@@ -1,5 +1,7 @@
 <script>
     import BOM from "../static/book-of-mormon-no-verses.json";
+    import NT from "../static/new-testament.json";
+    import DAC from "../static/doctrine-and-covenants.json";
 
     let languageCode = "sg";
     const languageCodes = [
@@ -21,11 +23,7 @@
     <div class="book-wrapper">
         {#each BOM.otherPages as page}
             <div class="book">
-                <a
-                    class="chapter"
-                    href="{page.link}?lang=eng&_x_tr_sl=en&_x_tr_tl={languageCode}&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true"
-                    target="_blank"
-                >
+                <a class="chapter" href="{page.link} " target="_blank">
                     {page.title}
                 </a>
             </div>
@@ -51,6 +49,50 @@
     </div>
 </div>
 
+<div>
+    <h1>Holy Bible</h1>
+    <h3>Books</h3>
+    <div class="book-wrapper">
+        {#each NT.books as book}
+            <div class="book">
+                <h3>{book.book}</h3>
+                {#each book.chapters as chapter, index}
+                    <a
+                        class="chapter"
+                        href="https://www-churchofjesuschrist-org.translate.goog/study/scriptures/nt/{book.abbreviation}/{index +
+                            1}?lang=eng&_x_tr_sl=en&_x_tr_tl={languageCode}&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true"
+                        target="_blank"
+                    >
+                        {chapter.reference}
+                    </a>
+                {/each}
+            </div>
+        {/each}
+    </div>
+</div>
+
+<div>
+    <h1>Doctrine and Covenants</h1>
+    <h3>Sections</h3>
+    <div class="book-wrapper">
+        {#each DAC.sections as section, index}
+            <div class="book">
+                <!-- <h3>{section.reference}</h3> -->
+                <!-- {#each book.chapters as chapter, index} -->
+                <a
+                    class="chapter"
+                    href="https://www-churchofjesuschrist-org.translate.goog/study/scriptures/dc-testament/dc/{index +
+                        1}?lang=eng&_x_tr_sl=en&_x_tr_tl={languageCode}&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true"
+                    target="_blank"
+                >
+                    {section.reference}
+                </a>
+                <!-- {/each} -->
+            </div>
+        {/each}
+    </div>
+</div>
+
 <style>
     h3 {
         text-align: center;
@@ -59,6 +101,7 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: flex-start;
+        /* flex-direction: column; */
     }
 
     .book {
@@ -67,6 +110,8 @@
         justify-content: flex-start;
         align-items: center;
         padding: 1rem;
+        max-height: 300px;
+        overflow: scroll;
     }
     @media screen and (max-width: 480px) {
         .chapter {
