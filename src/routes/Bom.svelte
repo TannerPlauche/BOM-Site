@@ -11,7 +11,7 @@
     ];
 </script>
 
-<div>
+<div id="main">
     <div class="langSelection">
         Select Language <select id="selectLang" bind:value={languageCode}>
             {#each languageCodes as language}
@@ -114,9 +114,19 @@
         overflow: scroll;
     }
     @media screen and (max-width: 480px) {
-        .chapter {
-            margin-bottom: 0.5rem;
+        #main {
+            margin-top: 50px;
         }
+        .chapter {
+            margin-top: 0.5rem;
+        }
+        .langSelection {
+            position: fixed;
+            top: 0;
+            background-color: var(--color-bg-1);
+            width: 100%;
+        }
+
     }
 
     .langSelection {
