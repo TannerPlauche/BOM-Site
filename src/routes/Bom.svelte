@@ -93,6 +93,11 @@
     </div>
 </div>
 
+<div>
+    <h1>Gospel Principles</h1>
+    <a href="https://www-churchofjesuschrist-org.translate.goog/study/manual/gospel-principles?lang=eng&_x_tr_sl=en&_x_tr_tl=sg&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true">Chapters</a>
+</div>
+
 <style>
     h3 {
         text-align: center;
